@@ -1,6 +1,6 @@
 Ben Wright — @ben31w
 
-Christopher Newport University, class of 2023. Pursuing a major in computer science and a career in software engineering, database administation, or computer networking.
+Christopher Newport University, class of 2023. Pursuing a major in computer science with an interest in software engineering, database administation, and computer networking.
 
 I’m currently taking computer science courses on data structures and algortihm analysis. 
 Some of the courses I've taken previously include introduction to software engineering (covered software development phases and design patterns), programming for applications (covered application skills like File I/O and command-line args), and programming for data manipulation (covered Python data analysis libraries such as NumPy and MatPlotLib).
