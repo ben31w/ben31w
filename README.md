@@ -13,7 +13,7 @@ I'm looking for a computer science internship for summer 2022. With my current s
 # Relevant Coursework
 <b>Computer science:</b> Introduction to Software Engineering, Data and File Structures, Programming Languages Concepts, C++ Programming, Programming for Data Manipulation, Programming for Applications, Discrete Structures for Computer Applications
 
-<b>Related coursework:</b> Digital Logic Design, Linear Algebra, University Physics I–II
+<b>Related:</b> Digital Logic Design, Linear Algebra, University Physics I–II
 
 <!---
 ben31w/ben31w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
