@@ -3,7 +3,7 @@ Ben Wright — @ben31w
 # Summary
 Christopher Newport University, computer science major, graduating December 2023.
 
-I'm looking for a summer 2022 internship with any relation to computer science. With my current skillset, I'm best equipped to perform software engineering and data science positions. But I can learn almost anything due to my analytical skills and drive for self-improvement.
+I'm looking for a computer science internship for summer 2022. With my current skillset, I'm best equipped to perform software engineering and data science positions. But I can learn almost anything due to my analytical skills and drive for self-improvement.
 
 # Programming languages
 <b>Featured on GitHub:</b> Java, Python
