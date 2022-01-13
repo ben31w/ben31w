@@ -1,14 +1,19 @@
 Ben Wright — @ben31w
 
-Christopher Newport University, class of 2023. Pursuing a major in computer science with an interest in oftware engineering, cybersecurity, and computer networking
+# Summary
+Christopher Newport University, computer science major, graduating December 2023.
 
-I’m currently taking computer science courses on data structures and algortihm analysis. 
-Some of the courses I've taken previously include introduction to software engineering (covered software development phases and design patterns), programming for applications (covered file I/O, GUIs, and command-line args in Java), and programming for data manipulation (covered data serialization and Python data analysis libraries like NumPy and MatPlotLib).
+I'm looking for a summer 2022 internship with any relation to computer science. With my current skillset, I'm best equipped to perform software engineering and data science positions. But I can learn almost anything due to my analytical skills and drive for self-improvement.
 
-In my spare time, I'm working on becoming an Oracle Certified Associate for Java SE 8.
-Being an associate is only the first step in my plan to become a Certified Professional (you got to start somewhere I guess).
+# Programming languages
+<b>Featured on GitHub:</b> Java, Python
 
-You can reach me via email: ben31w@gmail.com
+<b>Other:</b> C++, HTML/CSS
+
+# Relevant Coursework
+<b>Computer science:</b> Introduction to Software Engineering, Data and File Structures, Programming Languages Concepts, C++ Programming, Programming for Data Manipulation, Programming for Applications, Discrete Structures for Computer Applications
+
+<b>Related coursework:</b> Digital Logic Design, Linear Algebra, University Physics I–II
 
 <!---
 ben31w/ben31w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
