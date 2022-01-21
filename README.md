@@ -6,9 +6,9 @@ Christopher Newport University, computer science major, graduating December 2023
 I'm looking for a computer science internship for summer 2022. With my current skillset, I'm best equipped to perform software engineering and data science positions. But I can learn most skills easily, and I'm a dedicated self-learner.
 
 # Programming languages
-<b>Featured on GitHub:</b> Java, Python
+<b>Featured on GitHub:</b> Java, Python, HTML
 
-<b>Other:</b> C++, C#, HTML, CSS
+<b>Other:</b> C++, C#, CSS
 
 <b>In the process of learning:</b> PHP, Javascript
 
