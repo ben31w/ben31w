@@ -3,12 +3,12 @@ Ben Wright — @ben31w
 # Summary
 Christopher Newport University, computer science major, graduating December 2023. 
 
-Incoming summer 2022 intern at L3Harris Technologies!
+Summer 2022 intern at L3Harris Technologies!
 
 # Programming languages
-<b>Featured on GitHub:</b> Java, Python, HTML/CSS, C++, C#,
+<b>Featured on GitHub:</b> Java, Python, HTML, C++, C#,
 
-<b>In the process of learning:</b> Haskell, PHP, Javascript
+<b>Additional languages:</b> CSS, Haskell
 
 # Relevant Coursework
 <b>Computer science:</b> Programming Languages Concepts, Introduction to Software Engineering, Data and File Structures, C++ Programming, Programming for Data Manipulation, Programming for Applications
