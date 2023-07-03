@@ -7,7 +7,7 @@ Ben Wright — @ben31w
 
 # Skills
 - High proficiency with OOP, most notably Java and Python, with some experience in C++ and C#. Most of my personal projects are in Java or Python.
-- Moderate proficiency with Git, which is only imporving as I continue my software engineering career.
+- Moderate proficiency with Git, with growing exposure to branching and merging in multi-user environments.
 - Hoping to become more proficient at anything software engineering-related. Some avenues that interest me the most are database management with SQL and Linux/shell scripting.
 
 <!---
