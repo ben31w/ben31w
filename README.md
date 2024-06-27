@@ -3,15 +3,27 @@ Ben Wright — @ben31w
 # Summary
 - Software Engineer at L3Harris Technologies
 - Christopher Newport University, Class of 2023, Computer Science major
-- Started programming in a high school CS class. I was inspired to pursue a CS degree due to my high school teacher's recommendation, the satisfaction I get from using computers to solve problems, and the clout of being a software engineer.
-- Came into the college with the goal of having a software engineering job upon graduation. By perfecting my personal projects, learning as much about CS as I could, and habitually applying to internships, I achieved this goal.
-- One reason I enjoy CS and software engineering is it gives me chances to learn new skills.
+- Started programming in high school. Inspired to pursue a CS degree due to a teacher's encouragement, the satisfaction I get from programming, and the clout of being a software engineer.
+- For fun, I enjoy bodybuilding, most forms of exercise, and being around cool people. Sometimes I code for fun. But mostly I've coded for work and school. I enjoy programming, but I think it's important to avoid burnout.
+
+# Languages
+Most proficient to least. There is a large drop off between Python and C++ :/
+- Java
+- Python
+- C++
+- C#
+- SQL
+- HTML
+- CSS
+- JavaScript
 
 # Skills
-- Java, Python, C++, C#, SQL, HTML, CSS, JavaScript
-- Linux
+Sorry, not all of these are featured on my GitHub projects.
 - Git
-- Agile development
+- Linux
+- Django
+- Redis
+- Maven
 
 <!---
 ben31w/ben31w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
