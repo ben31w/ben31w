@@ -1,6 +1,6 @@
 Ben Wright — @ben31w
 
-Currently working on (another) weight lifting program. I'll have something to push soon (mid-late 2025)!!
+Passionate about programming, fitness, and wellness.
 
 
 <!---
